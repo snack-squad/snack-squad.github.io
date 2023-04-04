@@ -1,4 +1,4 @@
-# Bowfolios
+# Snack Squad
 
 ## Table of contents
 
