@@ -2,7 +2,7 @@ title: SnackSquad
 description: Project for Manoa Munchies
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-Midnight
+theme: jekyll-theme-Merlot
 github:
   is_project_page: true
   repository_url: https://github.com/snack-squad/snack-squad.github.io
