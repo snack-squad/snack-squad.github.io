@@ -8,7 +8,7 @@
 
 ## Overview
 
-Snack Squad is an orginzation of students that create websites and useful applications for the University of Hawaii at Manoa community. We are currently students at the university taking the ICS 314 course.
+Snack Squad is an organization of students that create websites and useful applications for the University of Hawaii at Manoa community. We are currently students at the University taking the ICS 314 course.
 
 ### Members
 
