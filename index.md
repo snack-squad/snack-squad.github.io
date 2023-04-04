@@ -19,7 +19,12 @@ Snack Squad is an orginzation of students that create websites and useful applic
 
 ### Members
 
-List of members
+<ul>
+  <li>Dustin Tomi</li>
+  <li>Nicolas Steger</li>
+  <li>Payton Higa</li>
+  <li>Raymond Lai</li>
+</ul>
 
 ## Current Projects
 
