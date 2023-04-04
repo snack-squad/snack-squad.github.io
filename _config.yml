@@ -1,10 +1,10 @@
 title: SnackSquad
-description: Profiles, Projects, and Interests for the UH Community
+description: Project for Manoa Munchies
 google_analytics:
 show_downloads: false
 theme: jekyll-theme-Midnight
 github:
   is_project_page: true
-  repository_url: https://github.com/bowfolios/bowfolios
+  repository_url: https://github.com/snack-squad/snack-squad.github.io
 gems:
   - jekyll-mentions
