@@ -27,7 +27,7 @@ Template for our upcoming user home page.
 
 Template for our upcoming vendor home page.
 
-![](images/vendorhomepage.png)
+![](images/vendor-home.png)
 
 ### Admin Home Page
 Template for our upcoming admin home page.
