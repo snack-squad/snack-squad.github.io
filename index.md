@@ -5,7 +5,7 @@
 * [Overview](#overview)
 * [User Guide](#user-guide)
 * [Members](#members)
-* [Current Projects](#current-projects)
+* [Resources](#resources)
 
 ## Overview
 
