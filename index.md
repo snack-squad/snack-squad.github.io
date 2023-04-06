@@ -13,6 +13,12 @@ Snack Squad is an organization of students aiming to create a website that is us
 
 ## User Guide
 
+### Landing Page
+
+Mockup for our upcoming landing page.
+
+![](images/snack-squad-landing.png)
+
 ### User Home Page
 
 Template for our upcoming user home page.
