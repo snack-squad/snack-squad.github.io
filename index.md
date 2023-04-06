@@ -40,6 +40,7 @@ Template for our upcoming admin home page.
 
 ## Current Projects
 <strong>Snack Squad</strong>
+View our progress [here](https://github.com/orgs/snack-squad/projects/1)
 
 ## Resources
 
