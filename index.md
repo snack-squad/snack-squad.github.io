@@ -38,7 +38,7 @@ Template for our upcoming admin home page.
 </ul>
 
 ## Current Projects
-<strong>Manoa Munchies</strong>
+<strong>Snack Squad</strong>
 
 ## Resources
 
