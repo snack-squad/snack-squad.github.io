@@ -37,3 +37,7 @@ Template for our upcoming vendor home page.
 ## Current Projects
 <h2>Manoa Munchies</h2>
 
+## Resources
+
+View our team contract [here](https://docs.google.com/document/d/1sd9oMwB1Ag79HgdZCrIyNkRM-P1il__5RpOqxmauF3c/edit)
+
