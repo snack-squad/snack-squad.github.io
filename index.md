@@ -1,4 +1,4 @@
-# Snack Squad
+## Snack Squad
 
 ## Table of contents
 
