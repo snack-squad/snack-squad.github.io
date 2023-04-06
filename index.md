@@ -3,6 +3,7 @@
 ## Table of contents
 
 * [Overview](#overview)
+* [Features](#features)
 * [User Guide](#user-guide)
 * [Members](#members)
 * [Resources](#resources)
@@ -10,6 +11,23 @@
 ## Overview
 
 Snack Squad is an organization of students aiming to create a website that is useful and applicable for the University of Hawaii at Manoa community. We are currently students at the University taking the ICS 314 course. The goal of this project is to create a website to present available menu items for all campus locations in a unified manner. This will be done by allowing vendors to establish menus and daily specials for users to sort through. Users will be able to set preferences that will allow them to filter their results based on their desires. 
+
+## Planned Features
+
+* Landing Page
+* User Home Page
+* Admin Home Page
+* Vendor Home Page
+* Add Vendor Page
+* Today's Picks Page
+* List Of Food Trucks
+* List of Campus Dining Areas
+* List of food you can just grab and go without the need to wait
+
+## Beyond the Basics
+
+* Ability for users who are logged in to filter food locations by preference for food, tags and whether they have favorited the place
+* Ability to search for a food item via a sitewide searchbar
 
 ## User Guide
 
