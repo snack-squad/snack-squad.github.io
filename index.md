@@ -25,6 +25,7 @@ Template for our upcoming vendor home page.
 
 ![](images/vendorhomepage.png)
 
+### Admin Home Page
 Template for our upcoming admin home page.
 ![](images/AdminHomepageDraft.png)
 
