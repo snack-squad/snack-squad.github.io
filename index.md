@@ -1,3 +1,5 @@
+#Snack Squad
+
 ## Table of contents
 
 * [Overview](#overview)
