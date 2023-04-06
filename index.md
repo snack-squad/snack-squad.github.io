@@ -35,7 +35,7 @@ Template for our upcoming vendor home page.
 </ul>
 
 ## Current Projects
-<h2>Manoa Munchies</h2>
+<strong>Manoa Munchies</strong>
 
 ## Resources
 
