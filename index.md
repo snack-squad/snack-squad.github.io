@@ -33,7 +33,7 @@ Template for our upcoming vendor home page.
 
 ### Admin Home Page
 Template for our upcoming admin home page.
-![](images/AdminHomepageDraft.png)
+![](images/adminHomePageMockup.png)
 
 ### Members
 
