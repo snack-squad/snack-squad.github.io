@@ -17,6 +17,7 @@ Snack Squad is an organization of students that create websites and useful appli
 
 Template for our upcoming vendor home page.
 
+![](images/userhomepage.png)
 ![](images/vendorhomepage.png)
 
 ### Members
