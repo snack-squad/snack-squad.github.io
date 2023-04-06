@@ -38,12 +38,9 @@ Template for our upcoming admin home page.
   <li>Raymond Lai</li>
 </ul>
 
-## Current Projects
-<strong>Snack Squad</strong>
-
-View our progress [here](https://github.com/orgs/snack-squad/projects/1)
-
 ## Resources
 
 View our team contract [here](https://docs.google.com/document/d/1sd9oMwB1Ag79HgdZCrIyNkRM-P1il__5RpOqxmauF3c/edit)
+
+View our progress [here](https://github.com/orgs/snack-squad/projects/1)
 
