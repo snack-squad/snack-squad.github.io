@@ -4,6 +4,7 @@
 
 * [Overview](#overview)
 * [Features](#features)
+* [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Members](#members)
 * [Resources](#resources)
@@ -28,6 +29,8 @@ Snack Squad is an organization of students aiming to create a website that is us
 
 * Ability for users who are logged in to filter food locations by preference for food, tags and whether they have favorited the place
 * Ability to search for a food item via a sitewide searchbar
+
+## Deployment
 
 ## User Guide
 
