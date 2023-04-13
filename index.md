@@ -91,7 +91,7 @@ Template for our upcoming admin home page.
 
 View our team contract [here](https://docs.google.com/document/d/1sd9oMwB1Ag79HgdZCrIyNkRM-P1il__5RpOqxmauF3c/edit)
 
-View our progress first milestone progress [here](https://github.com/orgs/snack-squad/projects/1)
+View our progress first milestone progress [M1](https://github.com/orgs/snack-squad/projects/1)
 
-View our progress second milestone progress [here](https://github.com/orgs/snack-squad/projects/3)
+View our progress second milestone progress [M2](https://github.com/orgs/snack-squad/projects/3)
 
