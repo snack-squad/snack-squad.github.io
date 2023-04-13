@@ -36,13 +36,13 @@ View our website [Snack Squad](http://64.226.109.71/)
 
 ## User Guide
 
-## Current Vendor Home page
+### Current Vendor Home page
 
 Current running vendor home page.
 
 ![](images/vendor-home-live.png)
 
-## Current Add Restaurant page
+### Current Add Restaurant page
 
 Current running add restaurant page.
 
