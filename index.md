@@ -48,6 +48,12 @@ Current running add restaurant page.
 
 ![](images/add-restaurant-live.png)
 
+### Current Admin Home page
+
+Current running admin home page.
+
+![](images/AdminHomeImplement.png)
+
 ## Initial Mockups
 
 ### Landing Page
