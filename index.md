@@ -36,6 +36,20 @@ View our website [Snack Squad](http://64.226.109.71/)
 
 ## User Guide
 
+## Current Vendor Home page
+
+Current running vendor home page.
+
+![](images/vendor-home-live.png)
+
+## Current Add Restaurant page
+
+Current running add restaurant page.
+
+![](images/add-restaurant-live.png)
+
+## Initial Mockups
+
 ### Landing Page
 
 Mockup for our upcoming landing page.
@@ -71,5 +85,7 @@ Template for our upcoming admin home page.
 
 View our team contract [here](https://docs.google.com/document/d/1sd9oMwB1Ag79HgdZCrIyNkRM-P1il__5RpOqxmauF3c/edit)
 
-View our progress [here](https://github.com/orgs/snack-squad/projects/1)
+View our progress first milestone progress [here](https://github.com/orgs/snack-squad/projects/1)
+
+View our progress second milestone progress [here](https://github.com/orgs/snack-squad/projects/3)
 
