@@ -54,6 +54,12 @@ Current running admin home page.
 
 ![](images/AdminHomeImplement.png)
 
+### Current User Home page
+
+Current running user home page.
+
+![](images/userhome.png)
+
 ## Initial Mockups
 
 ### Landing Page
