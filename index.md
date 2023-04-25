@@ -56,6 +56,12 @@ Current running add restaurant page.
 
 ![](images/add-restaurant-live.png)
 
+### Current Edit Restaurant page
+
+Current running Edit restaurant page.
+
+![](images/edit-restaurant.png)
+
 ### Current Admin Home page
 
 Current running admin home page.
