@@ -32,7 +32,7 @@ Snack Squad is an organization of students aiming to create a website that is us
 
 ## Deployment
 
-View our website [Snack Squad](http://64.226.109.71/)
+View our website [Snack Squad](https://snack-squad.online/)
 ![ci-badge](https://github.com/snack-squad/snack-squad/workflows/ci-snack-squad/badge.svg)
 
 ## User Guide
