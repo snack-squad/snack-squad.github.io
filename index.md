@@ -33,6 +33,7 @@ Snack Squad is an organization of students aiming to create a website that is us
 ## Deployment
 
 View our website [Snack Squad](http://64.226.109.71/)
+![ci-badge](https://github.com/snack-squad/snack-squad/workflows/snack-squad/badge.svg)
 
 ## User Guide
 
@@ -106,4 +107,6 @@ View our team contract [here](https://docs.google.com/document/d/1sd9oMwB1Ag79Hg
 View our progress first milestone progress [M1](https://github.com/orgs/snack-squad/projects/1)
 
 View our progress second milestone progress [M2](https://github.com/orgs/snack-squad/projects/3)
+
+
 
