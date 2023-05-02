@@ -98,6 +98,10 @@ Template for our upcoming vendor home page.
 Template for our upcoming admin home page.
 ![](images/adminHomePageMockup.png)
 
+## Community Feedback
+
+## Developer Guide
+
 ### Members
 
 <ul>
