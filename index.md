@@ -48,7 +48,7 @@ Current running landing page.
 
 Current running vendor home page.
 
-![](images/vendor-home-live.png)
+![](images/vendorhome-live.png)
 
 ### Current Add Restaurant page
 
