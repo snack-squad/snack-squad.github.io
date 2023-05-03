@@ -74,6 +74,12 @@ Current running user home page.
 
 ![](images/userhome.png)
 
+### Current Restaurant List
+
+Current running list of restaurant pages.
+
+![](images/display-restaurants.png)
+
 ## Initial Mockups
 
 ### Landing Page
