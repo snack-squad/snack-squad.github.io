@@ -54,13 +54,14 @@ Current running vendor home page.
 
 Current running add restaurant page.
 
-![](images/add-restaurant-live.png)
+![](images/addrest-live.png)
 
 ### Current Edit Restaurant page
 
 Current running Edit restaurant page.
 
-![](images/edit-restaurant.png)
+![](images/editrest1-live.png)
+![](images/editrest2-live.png)
 
 ### Current Admin Home page
 
