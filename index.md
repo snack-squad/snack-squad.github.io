@@ -17,18 +17,18 @@ Snack Squad is an organization of students aiming to create a website that is us
 
 * Landing Page
 * User Home Page
+* Listed Restaurants
 * Admin Home Page
 * Vendor Home Page
 * Add Vendor Page
 * Today's Picks Page
-* List Of Food Trucks
-* List of Campus Dining Areas
-* List of food you can just grab and go without the need to wait
+* Add and Edit restaurants as well as picks.
 
 ## Beyond the Basics
 
 * Ability for users who are logged in to filter food locations by preference for food, tags and whether they have favorited the place
 * Ability to search for a food item via a sitewide searchbar
+* Ability to have a bauilt in menu for each page.
 
 ## Deployment
 
