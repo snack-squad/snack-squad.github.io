@@ -80,6 +80,11 @@ Current running list of restaurant pages.
 
 ![](images/display-restaurants.png)
 
+### Current Today's Picks
+Current running list of today's picks page.
+
+![](images/todayspicks-live.png)
+
 ## Initial Mockups
 
 ### Landing Page
@@ -102,6 +107,7 @@ Template for our upcoming vendor home page.
 
 ### Admin Home Page
 Template for our upcoming admin home page.
+
 ![](images/adminHomePageMockup.png)
 
 ## Community Feedback
